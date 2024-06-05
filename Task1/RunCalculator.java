@@ -6,6 +6,9 @@ import Task1.strategy.ComplexOperation;
 import Task1.strategy.DivisionOperation;
 import Task1.strategy.MultiplicationOperation;
 
+/**
+ * Some text for git
+ */
 public class RunCalculator {
     public static void main(String[] args) {
         ComplexCalculator calculator = new ComplexCalculator();
